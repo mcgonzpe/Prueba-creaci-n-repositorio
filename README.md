@@ -1,2 +1,2 @@
-# Prueba-creaci-n-repositorio
+# Prueba-creacion-repositorio
 prueba
